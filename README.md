@@ -11,7 +11,3 @@ Here are some ideas to get you started:
 <div id="bottom" align="center">
   <img src="https://media.giphy.com/media/YG9ZrTpBcWt6kpsvaX/giphy.gif" width="385"/>
 </div>
-
-<iframe src="https://giphy.com/embed/YG9ZrTpBcWt6kpsvaX" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hedgehog-hrisson-artfaustine-YG9ZrTpBcWt6kpsvaX">via GIPHY</a></p>
-
-https://media.giphy.com/media/YG9ZrTpBcWt6kpsvaX/giphy.gif
