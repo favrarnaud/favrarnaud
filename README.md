@@ -1,8 +1,11 @@
 ### 🔶 plop 🔶
 
-- 🔭 I’m currently working on 
+---
+
 - 🌱 I’m currently learning C at 42 School Lausanne
 - 📫 How to reach me: -> arnaud.favree@gmail.com
+
+---
 
 ### le Saint Hérisson nous surpasse tous !
 
