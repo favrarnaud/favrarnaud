@@ -1,7 +1,5 @@
 ### 🔶 plop 🔶
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning C at 42 School Lausanne
 - 📫 How to reach me: -> arnaud.favree@gmail.com
