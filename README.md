@@ -2,7 +2,7 @@
 
 ---
 
-- 🌱 I’m currently learning C at 42 School Lausanne
+- 🌱 I’m currently learning C , C++ and web developement at 42 School Lausanne
 - 📫 How to reach me: -> arnaud.favree@gmail.com
 
 ---
