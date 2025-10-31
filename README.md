@@ -2,8 +2,9 @@
 
 ---
 
-- 🌱 I’m currently learning C , C++ and web developement at 42 School Lausanne
+- 🌱 I’m currently working for cAH (Centre André Henzelin) at Lausanne
 - 📫 How to reach me: -> arnaud.favree@gmail.com
+-                      -> arnaud.favre@epsn.ch
 
 ---
 
